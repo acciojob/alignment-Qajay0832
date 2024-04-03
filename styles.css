@@ -7,3 +7,6 @@
 	padding:1px;
 	spacing:1px;
 }
+.middle td{
+	border:1px solid black;
+}
